@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4263eb&height=300&section=header&text=About%20Me!&fontSize=90&fontAlignY=40&fontColor=edf2ff)
-
+<img width="5620" alt="테오의 스프린트 16기 - 9조" src="https://github.com/taeo-sprint16/.github/assets/77668478/314a84e3-35ee-4d87-972d-701bc795b169">
 
 <div align="center">
 
 # :wave: 어바웃 미를 소개합니다
 ### 새로운 나를 발견하는 곳, About Me!
 <div>
-타인의 답변을 통해, 본인에 대한 새로운 인사이트를 얻어보세요.
+ 타인의 답변을 통해, 본인에 대한 새로운 인사이트를 얻어보세요.
 </div>
 
 <div>
@@ -14,19 +13,37 @@
 </div>
 
 <div>
-  답변을 참고하여 자신에 대해 정리하고 기록하는 시간을 가져보세요.
+ 답변을 참고하여 자신에 대해 정리하고 기록하는 시간을 가져보세요.
 </div>
+
+# 🚦 페이지 안내
+
+## 온보딩
+
+![스크린샷 2023-10-24 오전 2 16 16](https://github.com/taeo-sprint16/.github/assets/77668478/5c1897f3-efff-4379-934c-20a71d0c5ed3)
+
+## 질문하기
+
+![스크린샷 2023-10-24 오전 2 17 01](https://github.com/taeo-sprint16/.github/assets/77668478/c15d87f0-b78e-4352-b37c-0b92dc219078)
+
+## 답변 확인
+
+![스크린샷 2023-10-24 오전 2 18 03](https://github.com/taeo-sprint16/.github/assets/77668478/017acdd5-edbf-4639-8a3f-ff2a0500f955)
+
+## 답변 남기기
+
+![스크린샷 2023-10-24 오전 2 17 20](https://github.com/taeo-sprint16/.github/assets/77668478/92db2f28-1389-473b-8b5c-f9d4528a5e9c)
 
 # :sparkling_heart: Team member
 <table>
 <thead>
 <tr>
-<th>써머</th>
-<th>맛김</th>
-<th>:crown:라이</th>
-<th>제이크</th>
-<th>레시</th>
-<th>네모</th>
+<th><a href="https://github.com/Summmerr">써머</a></th>
+<th><a href="https://github.com/tastekim">맛김</a></th>
+<th><a href="https://github.com/bbung95">:crown:라이</a></th>
+<th><a href="https://github.com/HA-SEUNG-JEONG">제이크</a></th>
+<th><a href="https://github.com/lulla-by">레시</a></th>
+<th><a href="https://github.com/brother1-4752">네모</a></th>
 </tr>
 </thead>
 <tbody>
@@ -42,37 +59,4 @@
 </tr>
 </tbody>
 </table>
-
-
-# 🚦 페이지 안내
-
-## 온보딩
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/530a57ec-18c2-42c0-b674-5936514834c6)
-
-## 질문 하기
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/669253da-c279-4378-9b79-36ed9939bde2)
-  
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/860aed8b-ebba-49cc-aa54-47c0c40d88f9)
-
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/d0d46bc8-d704-44ea-a395-9da5955f0a9d)
-
-## 답변 확인
-
-## 답변 남기기
-
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/5b873bce-37ad-4064-b13d-f29a973ea1cf)
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/5878f1dd-e57c-443e-a461-8be2c6b114e1)
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/3022cb08-3156-47a8-b524-1528540483f0)
-
-
-
-
-
-# 📐 와이어 프레임
-
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/ce92585f-187f-46e0-9b69-abd31399fe12)
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/b1e0fc5a-e6c0-49fd-9b31-e0d5fdbbbe9e)
-![image](https://github.com/taeo-sprint16/.github/assets/107671084/397a5be4-b825-42bf-aaff-25e79b56e4f1)
-
-
 
