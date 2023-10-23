@@ -31,7 +31,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img width="200" height="200" src="https://github.com/taeo-sprint16/frontend/assets/107671084/e5dca0fc-6b87-4879-84d0-d53921d670c8" alt="image"><div><strong></strong></div></td>
+<td align="center"><img width="200" height="200" src="https://github.com/lulla-by/Study_NextJS/assets/107671084/8007ec8f-17ba-4c82-a2e4-b25f54c2819f" alt="image"><div><strong></strong></div></td>
 <td align="center"><img width="200" height="200" src="https://github.com/taeo-sprint16/frontend/assets/107671084/e890dc46-0b34-449f-a5ce-902e0eb7fcbb" alt="image"><div><strong></strong></div></td>
 <td align="center"><img width="200" height="200" src="https://github.com/taeo-sprint16/frontend/assets/107671084/72ce24c9-6a2f-4c29-ab6d-862b293d05a5" alt="image"><div><strong></strong></div></td>
 <td align="center"><img width="200" height="200" src="https://github.com/taeo-sprint16/frontend/assets/107671084/675c9196-77fc-4776-a24b-0b0231fa7aea" alt="image"><div><strong></strong></div></td>
